@@ -1,4 +1,4 @@
-# my-react-application
+# Base React Application [Boilerplate]
 
 A React application set up conveniently from scratch with <strong>TypeScript</strong>
 
